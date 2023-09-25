@@ -1,0 +1,1 @@
+# text_recognation_from_image_by_using_pytesseract_ocr
